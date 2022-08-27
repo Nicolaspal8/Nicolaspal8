@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+Welcome to my Github Profile
+</h1>
+<p>
+I'm Nicolás, and I love programming and every day I am studying and practicing new things to become one of the best programmers in the world, with the goal of developing great things that will help everyone on this planet.
+</p>
+<input id="ave" type="text">
 
-<!--
-**Nicolaspal8/Nicolaspal8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<script>
+let  n = 2;
+let b = 4;
+let ave = document.querySelector("#ave")
+ave.onclick = ()=>{
+console.log("Hola Mundo")
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(n*b - 5)
+</script>
