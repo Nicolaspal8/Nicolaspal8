@@ -5,8 +5,8 @@ Welcome to my Github Profile
 I'm Nicolás, and I love programming and every day I am studying and practicing new things to become one of the best programmers in the world, with the goal of developing great things that will help everyone on this planet.
 </p>
 ### 👨‍💻 About Me :
-- 🔗 <a src="www.linkedin.com/in/nicolás-palacios"> Linkedin </a>
-- 🌐 <a src="#">Portafolio></a>
+- 🔗 [www.linkedin.com/in/nicolás-palacios](Linkedin)
+- 🌐 [#](Portafolio)
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
