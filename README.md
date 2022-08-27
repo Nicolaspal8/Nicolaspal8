@@ -2,10 +2,10 @@
 Welcome to my Github Profile
 </h1>
 <p>
-I'm Nicolás, and I love programming and every day I am studying and practicing new things to become one of the best programmers in the world, with the goal of developing great things that will help everyone on this planet.
+I'm Nicolás, and I love programming and every day I am studying and practicing new things to become one of the best programmers in the world.
 </p>
 <hr>
-### 👨‍💻  About Me :
+### 👨‍💻 About Me :
 
 - 🔗 [Linkedin](www.linkedin.com/in/nicolás-palacios)
 - 🌐 [Portafolio](#)
