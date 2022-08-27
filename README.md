@@ -4,12 +4,12 @@ Welcome to my Github Profile
 <p>
 I'm Nicolás, and I love programming and every day I am studying and practicing new things to become one of the best programmers in the world, with the goal of developing great things that will help everyone on this planet.
 </p>
----
+<hr>
 ### 👨‍💻  About Me :
 
 - 🔗 [Linkedin](www.linkedin.com/in/nicolás-palacios)
-- 🌐 [#](Portafolio)
-
+- 🌐 [Portafolio](#)
+<hr>
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -27,4 +27,4 @@ I'm Nicolás, and I love programming and every day I am studying and practicing 
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
----
+
